@@ -1,0 +1,9 @@
+.product-container {
+  font-size: 1.5rem;
+  width: max-content;
+  min-width: 500px;
+}
+
+body {
+height: 105vh;
+}
